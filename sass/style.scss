@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f4f4f4;
+}
+
+.box{
+    margin: 0 auto;
+    width: 1300px;
+    display: flex;
+    gap: 10px;
+}
+.elem{
+    padding: 25px 25px 0px 25px;
+    width: 400px;
+    background-color: white;
+    border: solid 0px ;
+    border-radius: 10px;
+
+h6{
+    color: grey;
+}
+
+h3{
+    margin-top: 10px;
+    color: grey;
+}
+
+.np{
+    margin-top: 10px;  
+    height: 300px;
+        object-fit: cover;
+        background-size:cover;
+        
+}
+   
+}
